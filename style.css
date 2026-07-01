@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(181, 53, 108);
+    font: normal 12pt Arial;
+}
+
+.Cabecalho {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 10%;
+    padding: 13px;
+
+}
+
+.Container {
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.397);
+}
+
+.Container .text {
+    text-align: center;
+    padding: 8px;
+}
+
+.CardImg {
+    text-align: center;
+    padding: 8px;
+}
+
+.CardFoto {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    box-shadow: 3px 3px 16px;
+}
+
+.final {
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
